@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📝 I do write articles on dev.to [https://dev.to/kale_abhinav](https://dev.to/kale_abhinav)
+- 📝 I do write articles on dev.to [https://dev.to/kale_abhinav](https://dev.to/kale_abhinav) and medium [https://medium.com/@abhinavkale1234]
 
 - 💬 Ask me about **javaScript, react**
 
