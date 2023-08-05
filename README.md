@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **javaScript, react**
 
-- 📫 Reach me **abhinavkale1234@gmail.com**
+- 📫 Reach out to me **abhinavkale1234@gmail.com**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
